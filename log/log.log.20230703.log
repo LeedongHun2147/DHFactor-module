@@ -1,0 +1,27 @@
+WARNING, 2023-07-03 10:20:18,361, Preprocessing_Dashboard.py - Error 발생
+WARNING, 2023-07-03 10:20:18,362, Error : time data '[results currently unavailable]' does not match format '%a, %d %b %Y %H:%M:%S'
+WARNING, 2023-07-03 10:20:18,362, Asset/PartAsset.py - Error 발생
+WARNING, 2023-07-03 10:20:18,362, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-03 10:20:18,363, Usage.py - Error 발생
+WARNING, 2023-07-03 10:20:18,363, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-03 10:20:18,363, Statistics/PartAsset.py - Error 발생minutely_statistics_list
+WARNING, 2023-07-03 10:20:18,363, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-03 10:20:18,363, Compare.py - compare Error 발생
+WARNING, 2023-07-03 10:20:18,364, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-03 10:20:18,364, Statistics/PartAsset.py - Error 발생minutely_statistics_list
+WARNING, 2023-07-03 10:20:18,364, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-03 10:20:18,364, Normal.py - Error 발생
+WARNING, 2023-07-03 10:20:18,364, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-03 10:20:18,364, Statistics/PartAsset.py - Error 발생minutely_statistics_list
+WARNING, 2023-07-03 10:20:18,364, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-03 10:20:18,364, Count.py - Error 발생
+WARNING, 2023-07-03 10:20:18,365, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-03 10:20:18,365, Statistics/PartAsset.py - Error 발생minutely_statistics_list
+WARNING, 2023-07-03 10:20:18,365, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-03 10:20:18,365, Merge.py - Error 발생
+WARNING, 2023-07-03 10:20:18,365, Error : Can only merge Series or DataFrame objects, a <class 'NoneType'> was passed
+WARNING, 2023-07-03 10:20:18,365, Merge.py - Error 발생
+WARNING, 2023-07-03 10:20:18,365, Error : Can only merge Series or DataFrame objects, a <class 'NoneType'> was passed
+WARNING, 2023-07-03 10:20:18,365, Merge.py - Error 발생
+WARNING, 2023-07-03 10:20:18,365, Error : Can only merge Series or DataFrame objects, a <class 'NoneType'> was passed
+WARNING, 2023-07-03 10:20:18,397, Minutely CMU module Fail'NoneType' object has no attribute 'computer_id'

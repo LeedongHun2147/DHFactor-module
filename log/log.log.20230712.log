@@ -1,0 +1,47 @@
+WARNING, 2023-07-12 16:55:11,824, Minutely CMU module Fail오류:  "wire" 칼럼은 "minutely_asset" 릴레이션(relation)에 없음
+LINE 18:                     nvidia_smi, online, wire, asset_collecti...
+                                                 ^
+
+WARNING, 2023-07-12 16:55:16,131, Daily CDU module Fail오류:  "wire" 이름의 칼럼은 없습니다
+LINE 19:                         nvidia_smi, online, wire, asset_coll...
+                                                     ^
+
+WARNING, 2023-07-12 16:55:16,828, Idleasset Table INSERT connection 실패
+WARNING, 2023-07-12 16:55:16,829, Error : 오류:  integer 자료형 대한 잘못된 입력: "[results currently unavailable]"
+
+WARNING, 2023-07-12 16:55:29,885, Daily CDU module Fail오류:  "wire" 이름의 칼럼은 없습니다
+LINE 19:                         nvidia_smi, online, wire, asset_coll...
+                                                     ^
+
+WARNING, 2023-07-12 16:55:43,997, Daily CDU module Fail오류:  "wire" 이름의 칼럼은 없습니다
+LINE 19:                         nvidia_smi, online, wire, asset_coll...
+                                                     ^
+
+WARNING, 2023-07-12 16:55:57,850, Daily CDU module Fail오류:  "wire" 이름의 칼럼은 없습니다
+LINE 19:                         nvidia_smi, online, wire, asset_coll...
+                                                     ^
+
+WARNING, 2023-07-12 16:56:11,821, Daily CDU module Fail오류:  "wire" 이름의 칼럼은 없습니다
+LINE 19:                         nvidia_smi, online, wire, asset_coll...
+                                                     ^
+
+WARNING, 2023-07-12 16:56:25,245, Daily CDU module Fail오류:  "wire" 이름의 칼럼은 없습니다
+LINE 19:                         nvidia_smi, online, wire, asset_coll...
+                                                     ^
+
+WARNING, 2023-07-12 16:56:39,005, Daily CDU module Fail오류:  "wire" 이름의 칼럼은 없습니다
+LINE 19:                         nvidia_smi, online, wire, asset_coll...
+                                                     ^
+
+WARNING, 2023-07-12 16:56:53,000, Daily CDU module Fail오류:  "wire" 이름의 칼럼은 없습니다
+LINE 19:                         nvidia_smi, online, wire, asset_coll...
+                                                     ^
+
+WARNING, 2023-07-12 16:57:07,243, Daily CDU module Fail오류:  "wire" 이름의 칼럼은 없습니다
+LINE 19:                         nvidia_smi, online, wire, asset_coll...
+                                                     ^
+
+WARNING, 2023-07-12 16:57:21,329, Daily CDU module Fail오류:  "wire" 이름의 칼럼은 없습니다
+LINE 19:                         nvidia_smi, online, wire, asset_coll...
+                                                     ^
+

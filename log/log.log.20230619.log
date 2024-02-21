@@ -1,0 +1,52 @@
+WARNING, 2023-06-19 09:48:42,609, Idleasset Table INSERT connection 실패
+WARNING, 2023-06-19 09:48:42,610, Error : 오류:  연산자 없음: text - text
+LINE 24: ...             WHEN (excluded.disk_total_used_space - idle_ass...
+                                                              ^
+HINT:  지정된 이름 및 인자 형식과 일치하는 연산자가 없습니다. 명시적 형변환자를 추가해야 할 수도 있습니다.
+
+WARNING, 2023-06-19 09:50:37,858, Idleasset Table INSERT connection 실패
+WARNING, 2023-06-19 09:50:37,858, Error : 오류:  ON CONFLICT 절을 사용하는 경우, unique 나 exclude 제약 조건이 있어야 함
+
+WARNING, 2023-06-19 09:55:54,987, Idleasset Table INSERT connection 실패
+WARNING, 2023-06-19 09:55:54,989, Error : 오류:  ON CONFLICT 절을 사용하는 경우, unique 나 exclude 제약 조건이 있어야 함
+
+WARNING, 2023-06-19 09:56:48,822, Idleasset Table INSERT connection 실패
+WARNING, 2023-06-19 09:56:48,822, Error : 오류:  ON CONFLICT 절을 사용하는 경우, unique 나 exclude 제약 조건이 있어야 함
+
+WARNING, 2023-06-19 16:32:01,188, Idleasset Table INSERT connection 실패
+WARNING, 2023-06-19 16:32:01,188, Error : 오류:  연산자 없음: text - text
+LINE 25: ...             WHEN (excluded.disk_total_used_space - idle_ass...
+                                                              ^
+HINT:  지정된 이름 및 인자 형식과 일치하는 연산자가 없습니다. 명시적 형변환자를 추가해야 할 수도 있습니다.
+
+WARNING, 2023-06-19 16:45:01,243, Idleasset Table INSERT connection 실패
+WARNING, 2023-06-19 16:45:01,243, Error : 오류:  연산자 없음: text - text
+LINE 25: ...             WHEN (excluded.disk_total_used_space - idle_ass...
+                                                              ^
+HINT:  지정된 이름 및 인자 형식과 일치하는 연산자가 없습니다. 명시적 형변환자를 추가해야 할 수도 있습니다.
+
+WARNING, 2023-06-19 17:05:01,137, Idleasset Table INSERT connection 실패
+WARNING, 2023-06-19 17:05:01,137, Error : 오류:  integer 자료형 대한 잘못된 입력: "[current result unavailable]"
+
+WARNING, 2023-06-19 17:13:01,220, Idleasset Table INSERT connection 실패
+WARNING, 2023-06-19 17:13:01,220, Error : 오류:  integer 자료형 대한 잘못된 입력: "[current result unavailable]"
+
+WARNING, 2023-06-19 17:40:01,129, Idleasset Table INSERT connection 실패
+WARNING, 2023-06-19 17:40:01,130, Error : tuple index out of range
+WARNING, 2023-06-19 17:52:01,083, Idleasset Table INSERT connection 실패
+WARNING, 2023-06-19 17:52:01,083, Error : tuple index out of range
+WARNING, 2023-06-19 18:33:00,979, Daily CDU module Failname 'entry' is not defined
+WARNING, 2023-06-19 18:33:01,872, Daily CDU module Failname 'entry' is not defined
+WARNING, 2023-06-19 18:33:02,951, Daily CDU module Failname 'entry' is not defined
+WARNING, 2023-06-19 18:33:04,012, Daily CDU module Failname 'entry' is not defined
+WARNING, 2023-06-19 18:33:04,872, Daily CDU module Failname 'entry' is not defined
+WARNING, 2023-06-19 18:33:05,754, Daily CDU module Failname 'entry' is not defined
+WARNING, 2023-06-19 18:33:06,897, Daily CDU module Failname 'entry' is not defined
+WARNING, 2023-06-19 18:33:08,009, Daily CDU module Failname 'entry' is not defined
+WARNING, 2023-06-19 18:33:08,946, Daily CDU module Failname 'entry' is not defined
+WARNING, 2023-06-19 18:33:09,874, Daily CDU module Failname 'entry' is not defined
+WARNING, 2023-06-19 18:50:00,942, Idleasset Table INSERT connection 실패
+WARNING, 2023-06-19 18:50:00,942, Error : 오류:  integer 자료형 대한 잘못된 입력: "[current result unavailable]"
+
+WARNING, 2023-06-19 19:05:01,209, Idleasset Table INSERT connection 실패
+WARNING, 2023-06-19 19:05:01,209, Error : 'IPv4 Address'

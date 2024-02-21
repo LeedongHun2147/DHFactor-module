@@ -1,0 +1,316 @@
+WARNING, 2023-07-07 08:41:57,550, maincard Table INSERT connection 실패
+WARNING, 2023-07-07 08:41:58,587, Preprocessing_OM.py - Error 발생
+WARNING, 2023-07-07 08:41:58,587, Error : could not convert string to float: '[results'
+WARNING, 2023-07-07 08:41:58,592, Asset/PartAsset.py - Error 발생
+WARNING, 2023-07-07 08:41:58,592, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 08:41:58,593, Usage.py - Error 발생
+WARNING, 2023-07-07 08:41:58,593, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 08:41:58,594, Statistics/PartAsset.py - Error 발생minutely_statistics_list
+WARNING, 2023-07-07 08:41:58,594, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 08:41:58,595, Compare.py - compare Error 발생
+WARNING, 2023-07-07 08:41:58,595, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 08:41:58,596, Statistics/PartAsset.py - Error 발생minutely_statistics_list
+WARNING, 2023-07-07 08:41:58,596, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 08:41:58,597, Normal.py - Error 발생
+WARNING, 2023-07-07 08:41:58,597, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 08:41:58,597, Statistics/PartAsset.py - Error 발생minutely_statistics_list
+WARNING, 2023-07-07 08:41:58,597, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 08:41:58,598, Count.py - Error 발생
+WARNING, 2023-07-07 08:41:58,598, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 08:41:58,598, Statistics/PartAsset.py - Error 발생minutely_statistics_list
+WARNING, 2023-07-07 08:41:58,598, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 08:41:58,598, Merge.py - Error 발생
+WARNING, 2023-07-07 08:41:58,599, Error : Can only merge Series or DataFrame objects, a <class 'NoneType'> was passed
+WARNING, 2023-07-07 08:41:58,599, Merge.py - Error 발생
+WARNING, 2023-07-07 08:41:58,599, Error : Can only merge Series or DataFrame objects, a <class 'NoneType'> was passed
+WARNING, 2023-07-07 08:41:58,599, Merge.py - Error 발생
+WARNING, 2023-07-07 08:41:58,599, Error : Can only merge Series or DataFrame objects, a <class 'NoneType'> was passed
+WARNING, 2023-07-07 08:45:15,957, maincard Table INSERT connection 실패
+WARNING, 2023-07-07 08:45:15,998, maincard statistics Table INSERT connection 실패
+WARNING, 2023-07-07 08:45:15,998, Error : 오류:  중복된 키 값이 "minutely_statistics_un" 고유 제약 조건을 위반함
+DETAIL:  (minutely_statistics_unique)=(donut_Disk_Percentage) 키가 이미 있습니다.
+
+WARNING, 2023-07-07 08:45:16,644, Preprocessing_OM.py - Error 발생
+WARNING, 2023-07-07 08:45:16,645, Error : could not convert string to float: '[results'
+WARNING, 2023-07-07 08:45:16,645, Asset/PartAsset.py - Error 발생
+WARNING, 2023-07-07 08:45:16,645, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 08:45:16,645, Usage.py - Error 발생
+WARNING, 2023-07-07 08:45:16,645, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 08:45:16,645, Statistics/PartAsset.py - Error 발생minutely_statistics_list
+WARNING, 2023-07-07 08:45:16,645, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 08:45:16,645, Compare.py - compare Error 발생
+WARNING, 2023-07-07 08:45:16,645, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 08:45:16,645, Statistics/PartAsset.py - Error 발생minutely_statistics_list
+WARNING, 2023-07-07 08:45:16,645, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 08:45:16,647, Normal.py - Error 발생
+WARNING, 2023-07-07 08:45:16,647, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 08:45:16,647, Statistics/PartAsset.py - Error 발생minutely_statistics_list
+WARNING, 2023-07-07 08:45:16,647, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 08:45:16,647, Count.py - Error 발생
+WARNING, 2023-07-07 08:45:16,647, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 08:45:16,647, Statistics/PartAsset.py - Error 발생minutely_statistics_list
+WARNING, 2023-07-07 08:45:16,647, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 08:45:16,647, Merge.py - Error 발생
+WARNING, 2023-07-07 08:45:16,647, Error : Can only merge Series or DataFrame objects, a <class 'NoneType'> was passed
+WARNING, 2023-07-07 08:45:16,647, Merge.py - Error 발생
+WARNING, 2023-07-07 08:45:16,647, Error : Can only merge Series or DataFrame objects, a <class 'NoneType'> was passed
+WARNING, 2023-07-07 08:45:16,648, Merge.py - Error 발생
+WARNING, 2023-07-07 08:45:16,648, Error : Can only merge Series or DataFrame objects, a <class 'NoneType'> was passed
+WARNING, 2023-07-07 08:45:16,676, Minutely CMU module Fail'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 08:50:16,588, maincard Table INSERT connection 실패
+WARNING, 2023-07-07 08:50:16,742, maincard statistics Table INSERT connection 실패
+WARNING, 2023-07-07 08:50:16,742, Error : 오류:  중복된 키 값이 "minutely_statistics_un" 고유 제약 조건을 위반함
+DETAIL:  (minutely_statistics_unique)=(donut_Disk_Percentage) 키가 이미 있습니다.
+
+WARNING, 2023-07-07 08:55:16,538, maincard Table INSERT connection 실패
+WARNING, 2023-07-07 08:55:16,575, maincard statistics Table INSERT connection 실패
+WARNING, 2023-07-07 08:55:16,575, Error : 오류:  중복된 키 값이 "minutely_statistics_un" 고유 제약 조건을 위반함
+DETAIL:  (minutely_statistics_unique)=(donut_Disk_Percentage) 키가 이미 있습니다.
+
+WARNING, 2023-07-07 08:58:01,912, maincard Table INSERT connection 실패
+WARNING, 2023-07-07 09:00:16,414, maincard Table INSERT connection 실패
+WARNING, 2023-07-07 09:05:34,688, maincard Table INSERT connection 실패
+WARNING, 2023-07-07 09:05:35,543, Preprocessing_OM.py - Error 발생
+WARNING, 2023-07-07 09:05:35,543, Error : could not convert string to float: '[results'
+WARNING, 2023-07-07 09:05:35,543, Asset/PartAsset.py - Error 발생
+WARNING, 2023-07-07 09:05:35,544, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 09:05:35,544, Usage.py - Error 발생
+WARNING, 2023-07-07 09:05:35,544, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 09:05:35,544, Statistics/PartAsset.py - Error 발생minutely_statistics_list
+WARNING, 2023-07-07 09:05:35,544, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 09:05:35,545, Compare.py - compare Error 발생
+WARNING, 2023-07-07 09:05:35,545, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 09:05:35,545, Statistics/PartAsset.py - Error 발생minutely_statistics_list
+WARNING, 2023-07-07 09:05:35,545, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 09:05:35,545, Normal.py - Error 발생
+WARNING, 2023-07-07 09:05:35,545, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 09:05:35,546, Statistics/PartAsset.py - Error 발생minutely_statistics_list
+WARNING, 2023-07-07 09:05:35,546, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 09:05:35,546, Count.py - Error 발생
+WARNING, 2023-07-07 09:05:35,546, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 09:05:35,546, Statistics/PartAsset.py - Error 발생minutely_statistics_list
+WARNING, 2023-07-07 09:05:35,546, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 09:05:35,546, Merge.py - Error 발생
+WARNING, 2023-07-07 09:05:35,547, Error : Can only merge Series or DataFrame objects, a <class 'NoneType'> was passed
+WARNING, 2023-07-07 09:05:35,547, Merge.py - Error 발생
+WARNING, 2023-07-07 09:05:35,547, Error : Can only merge Series or DataFrame objects, a <class 'NoneType'> was passed
+WARNING, 2023-07-07 09:05:35,547, Merge.py - Error 발생
+WARNING, 2023-07-07 09:05:35,547, Error : Can only merge Series or DataFrame objects, a <class 'NoneType'> was passed
+WARNING, 2023-07-07 09:05:35,577, Minutely CMU module Fail'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 09:10:16,925, maincard Table INSERT connection 실패
+WARNING, 2023-07-07 09:15:16,596, maincard Table INSERT connection 실패
+WARNING, 2023-07-07 09:16:53,170, maincard Table INSERT connection 실패
+WARNING, 2023-07-07 09:20:16,499, maincard Table INSERT connection 실패
+WARNING, 2023-07-07 09:23:28,264, maincard Table INSERT connection 실패
+WARNING, 2023-07-07 09:24:25,287, maincard Table INSERT connection 실패
+WARNING, 2023-07-07 09:25:16,799, maincard Table INSERT connection 실패
+WARNING, 2023-07-07 09:27:24,381, maincard statistics Table INSERT connection 실패
+WARNING, 2023-07-07 09:27:24,381, Error : 오류:  ON CONFLICT 절을 사용하는 경우, unique 나 exclude 제약 조건이 있어야 함
+
+WARNING, 2023-07-07 09:29:58,042, maincard Table INSERT connection 실패
+WARNING, 2023-07-07 09:30:16,916, maincard Table INSERT connection 실패
+WARNING, 2023-07-07 09:31:54,459, maincard Table INSERT connection 실패
+WARNING, 2023-07-07 09:34:32,327, maincard Table INSERT connection 실패
+WARNING, 2023-07-07 09:37:38,493, maincard Table INSERT connection 실패
+WARNING, 2023-07-07 09:41:18,956, maincard Table INSERT connection 실패
+WARNING, 2023-07-07 09:45:16,709, maincard Table INSERT connection 실패
+WARNING, 2023-07-07 09:46:04,739, maincard Table INSERT connection 실패
+WARNING, 2023-07-07 10:02:32,224, maincard Table INSERT connection 실패
+WARNING, 2023-07-07 10:25:57,415, maincard INSERT connection 실패
+WARNING, 2023-07-07 10:25:57,415, Error : 오류:  중복된 키 값이 "minutely_statistics_un" 고유 제약 조건을 위반함
+DETAIL:  (minutely_statistics_unique)=(donut_Disk_Percentage) 키가 이미 있습니다.
+
+WARNING, 2023-07-07 10:27:33,477, maincard Table INSERT connection 실패
+WARNING, 2023-07-07 10:45:33,223, maincard Table INSERT connection 실패
+WARNING, 2023-07-07 10:46:44,847, maincard Table INSERT connection 실패
+WARNING, 2023-07-07 10:50:16,812, maincard Table INSERT connection 실패
+WARNING, 2023-07-07 10:51:33,111, maincard1 Table INSERT connection 실패
+WARNING, 2023-07-07 10:55:16,599, maincard1 Table INSERT connection 실패
+WARNING, 2023-07-07 10:57:29,279, maincard1 Table INSERT connection 실패
+WARNING, 2023-07-07 10:58:17,365, maincard1 Table INSERT connection 실패
+WARNING, 2023-07-07 11:00:16,474, maincard1 Table INSERT connection 실패
+WARNING, 2023-07-07 11:01:38,170, maincard1 Table INSERT connection 실패
+WARNING, 2023-07-07 11:05:14,337, maincard1 Table INSERT connection 실패
+WARNING, 2023-07-07 11:06:06,745, maincard1 Table INSERT connection 실패
+WARNING, 2023-07-07 11:06:06,781, maincard2 INSERT connection 실패
+WARNING, 2023-07-07 11:06:06,781, Error : 오류:  중복된 키 값이 "minutely_statistics_un" 고유 제약 조건을 위반함
+DETAIL:  (minutely_statistics_unique)=(donut_Disk_95) 키가 이미 있습니다.
+
+WARNING, 2023-07-07 11:07:14,783, maincard1 Table INSERT connection 실패
+WARNING, 2023-07-07 11:07:39,820, maincard1 Table INSERT connection 실패
+WARNING, 2023-07-07 11:08:50,696, maincard1 Table INSERT connection 실패
+WARNING, 2023-07-07 11:10:17,415, maincard1 Table INSERT connection 실패
+WARNING, 2023-07-07 11:20:17,428, Preprocessing_OM.py - Error 발생
+WARNING, 2023-07-07 11:20:17,428, Error : time data '[results currently unavailable]' does not match format '%a, %d %b %Y %H:%M:%S'
+WARNING, 2023-07-07 11:20:17,428, Asset/PartAsset.py - Error 발생
+WARNING, 2023-07-07 11:20:17,428, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 11:20:17,428, Usage.py - Error 발생
+WARNING, 2023-07-07 11:20:17,429, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 11:20:17,429, Statistics/PartAsset.py - Error 발생minutely_statistics_list
+WARNING, 2023-07-07 11:20:17,429, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 11:20:17,429, Compare.py - compare Error 발생
+WARNING, 2023-07-07 11:20:17,429, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 11:20:17,429, Statistics/PartAsset.py - Error 발생minutely_statistics_list
+WARNING, 2023-07-07 11:20:17,430, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 11:20:17,430, Normal.py - Error 발생
+WARNING, 2023-07-07 11:20:17,430, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 11:20:17,430, Statistics/PartAsset.py - Error 발생minutely_statistics_list
+WARNING, 2023-07-07 11:20:17,430, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 11:20:17,430, Count.py - Error 발생
+WARNING, 2023-07-07 11:20:17,430, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 11:20:17,430, Statistics/PartAsset.py - Error 발생minutely_statistics_list
+WARNING, 2023-07-07 11:20:17,430, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 11:20:17,431, Merge.py - Error 발생
+WARNING, 2023-07-07 11:20:17,431, Error : Can only merge Series or DataFrame objects, a <class 'NoneType'> was passed
+WARNING, 2023-07-07 11:20:17,431, Merge.py - Error 발생
+WARNING, 2023-07-07 11:20:17,431, Error : Can only merge Series or DataFrame objects, a <class 'NoneType'> was passed
+WARNING, 2023-07-07 11:20:17,431, Merge.py - Error 발생
+WARNING, 2023-07-07 11:20:17,431, Error : Can only merge Series or DataFrame objects, a <class 'NoneType'> was passed
+WARNING, 2023-07-07 11:20:17,460, Minutely CMU module Fail'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 11:55:17,392, Preprocessing_OM.py - Error 발생
+WARNING, 2023-07-07 11:55:17,392, Error : could not convert string to float: '[results'
+WARNING, 2023-07-07 11:55:17,393, Asset/PartAsset.py - Error 발생
+WARNING, 2023-07-07 11:55:17,393, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 11:55:17,393, Usage.py - Error 발생
+WARNING, 2023-07-07 11:55:17,393, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 11:55:17,393, Statistics/PartAsset.py - Error 발생minutely_statistics_list
+WARNING, 2023-07-07 11:55:17,393, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 11:55:17,394, Compare.py - compare Error 발생
+WARNING, 2023-07-07 11:55:17,394, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 11:55:17,394, Statistics/PartAsset.py - Error 발생minutely_statistics_list
+WARNING, 2023-07-07 11:55:17,394, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 11:55:17,394, Normal.py - Error 발생
+WARNING, 2023-07-07 11:55:17,394, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 11:55:17,394, Statistics/PartAsset.py - Error 발생minutely_statistics_list
+WARNING, 2023-07-07 11:55:17,395, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 11:55:17,395, Count.py - Error 발생
+WARNING, 2023-07-07 11:55:17,395, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 11:55:17,395, Statistics/PartAsset.py - Error 발생minutely_statistics_list
+WARNING, 2023-07-07 11:55:17,395, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 11:55:17,395, Merge.py - Error 발생
+WARNING, 2023-07-07 11:55:17,395, Error : Can only merge Series or DataFrame objects, a <class 'NoneType'> was passed
+WARNING, 2023-07-07 11:55:17,395, Merge.py - Error 발생
+WARNING, 2023-07-07 11:55:17,395, Error : Can only merge Series or DataFrame objects, a <class 'NoneType'> was passed
+WARNING, 2023-07-07 11:55:17,395, Merge.py - Error 발생
+WARNING, 2023-07-07 11:55:17,395, Error : Can only merge Series or DataFrame objects, a <class 'NoneType'> was passed
+WARNING, 2023-07-07 11:55:17,428, Minutely CMU module Fail'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 12:21:00,511, certificate_asset Table INSERT connection 실패
+WARNING, 2023-07-07 12:21:00,511, Error : time data '[results currently unavailable]' does not match format ' %m/%d/%Y %H'
+WARNING, 2023-07-07 12:46:40,623, Preprocessing_OM.py - Error 발생
+WARNING, 2023-07-07 12:46:40,623, Error : could not convert string to float: '[results'
+WARNING, 2023-07-07 12:46:40,624, Asset/PartAsset.py - Error 발생
+WARNING, 2023-07-07 12:46:40,624, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 12:46:40,624, Usage.py - Error 발생
+WARNING, 2023-07-07 12:46:40,624, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 12:46:40,624, Statistics/PartAsset.py - Error 발생minutely_statistics_list
+WARNING, 2023-07-07 12:46:40,624, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 12:46:40,624, Compare.py - compare Error 발생
+WARNING, 2023-07-07 12:46:40,624, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 12:46:40,625, Statistics/PartAsset.py - Error 발생minutely_statistics_list
+WARNING, 2023-07-07 12:46:40,625, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 12:46:40,625, Normal.py - Error 발생
+WARNING, 2023-07-07 12:46:40,625, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 12:46:40,625, Statistics/PartAsset.py - Error 발생minutely_statistics_list
+WARNING, 2023-07-07 12:46:40,625, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 12:46:40,625, Count.py - Error 발생
+WARNING, 2023-07-07 12:46:40,625, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 12:46:40,625, Statistics/PartAsset.py - Error 발생minutely_statistics_list
+WARNING, 2023-07-07 12:46:40,626, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 12:46:40,626, Merge.py - Error 발생
+WARNING, 2023-07-07 12:46:40,626, Error : Can only merge Series or DataFrame objects, a <class 'NoneType'> was passed
+WARNING, 2023-07-07 12:46:40,626, Merge.py - Error 발생
+WARNING, 2023-07-07 12:46:40,626, Error : Can only merge Series or DataFrame objects, a <class 'NoneType'> was passed
+WARNING, 2023-07-07 12:46:40,626, Merge.py - Error 발생
+WARNING, 2023-07-07 12:46:40,626, Error : Can only merge Series or DataFrame objects, a <class 'NoneType'> was passed
+WARNING, 2023-07-07 12:47:26,758, Preprocessing_OM.py - Error 발생
+WARNING, 2023-07-07 12:47:26,758, Error : could not convert string to float: '[results'
+WARNING, 2023-07-07 12:47:26,758, Asset/PartAsset.py - Error 발생
+WARNING, 2023-07-07 12:47:26,758, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 12:47:26,759, Usage.py - Error 발생
+WARNING, 2023-07-07 12:47:26,759, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 12:47:26,759, Statistics/PartAsset.py - Error 발생minutely_statistics_list
+WARNING, 2023-07-07 12:47:26,759, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 12:47:26,759, Compare.py - compare Error 발생
+WARNING, 2023-07-07 12:47:26,759, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 12:47:26,759, Statistics/PartAsset.py - Error 발생minutely_statistics_list
+WARNING, 2023-07-07 12:47:26,759, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 12:47:26,761, Normal.py - Error 발생
+WARNING, 2023-07-07 12:47:26,761, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 12:47:26,761, Statistics/PartAsset.py - Error 발생minutely_statistics_list
+WARNING, 2023-07-07 12:47:26,761, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 12:47:26,761, Count.py - Error 발생
+WARNING, 2023-07-07 12:47:26,761, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 12:47:26,761, Statistics/PartAsset.py - Error 발생minutely_statistics_list
+WARNING, 2023-07-07 12:47:26,761, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 12:47:26,761, Merge.py - Error 발생
+WARNING, 2023-07-07 12:47:26,761, Error : Can only merge Series or DataFrame objects, a <class 'NoneType'> was passed
+WARNING, 2023-07-07 12:47:26,762, Merge.py - Error 발생
+WARNING, 2023-07-07 12:47:26,762, Error : Can only merge Series or DataFrame objects, a <class 'NoneType'> was passed
+WARNING, 2023-07-07 12:47:26,762, Merge.py - Error 발생
+WARNING, 2023-07-07 12:47:26,762, Error : Can only merge Series or DataFrame objects, a <class 'NoneType'> was passed
+WARNING, 2023-07-07 13:20:17,886, Minutely CMU module Fail'usage_rate'
+WARNING, 2023-07-07 14:10:17,373, Preprocessing_OM.py - Error 발생
+WARNING, 2023-07-07 14:10:17,373, Error : could not convert string to float: '[results'
+WARNING, 2023-07-07 14:10:17,374, Asset/PartAsset.py - Error 발생
+WARNING, 2023-07-07 14:10:17,374, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 14:10:17,374, Usage.py - Error 발생
+WARNING, 2023-07-07 14:10:17,374, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 14:10:17,375, Statistics/PartAsset.py - Error 발생minutely_statistics_list
+WARNING, 2023-07-07 14:10:17,375, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 14:10:17,375, Compare.py - compare Error 발생
+WARNING, 2023-07-07 14:10:17,375, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 14:10:17,375, Statistics/PartAsset.py - Error 발생minutely_statistics_list
+WARNING, 2023-07-07 14:10:17,375, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 14:10:17,375, Normal.py - Error 발생
+WARNING, 2023-07-07 14:10:17,375, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 14:10:17,375, Statistics/PartAsset.py - Error 발생minutely_statistics_list
+WARNING, 2023-07-07 14:10:17,375, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 14:10:17,376, Count.py - Error 발생
+WARNING, 2023-07-07 14:10:17,376, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 14:10:17,376, Statistics/PartAsset.py - Error 발생minutely_statistics_list
+WARNING, 2023-07-07 14:10:17,376, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 14:10:17,376, Merge.py - Error 발생
+WARNING, 2023-07-07 14:10:17,376, Error : Can only merge Series or DataFrame objects, a <class 'NoneType'> was passed
+WARNING, 2023-07-07 14:10:17,376, Merge.py - Error 발생
+WARNING, 2023-07-07 14:10:17,376, Error : Can only merge Series or DataFrame objects, a <class 'NoneType'> was passed
+WARNING, 2023-07-07 14:10:17,376, Merge.py - Error 발생
+WARNING, 2023-07-07 14:10:17,376, Error : Can only merge Series or DataFrame objects, a <class 'NoneType'> was passed
+WARNING, 2023-07-07 14:10:17,406, Minutely CMU module Fail'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 14:19:50,668, Tanium API Sensor 호출 Error 발생
+WARNING, 2023-07-07 14:19:50,669, Sensor ID : 853
+WARNING, 2023-07-07 14:20:16,559, Tanium API Sensor 호출 Error 발생
+WARNING, 2023-07-07 14:20:16,560, Sensor ID : 853
+WARNING, 2023-07-07 14:20:16,560, Minutely CMU module Fail'NoneType' object is not iterable
+WARNING, 2023-07-07 14:36:07,125, Tanium API Sensor 호출 Error 발생
+WARNING, 2023-07-07 14:36:07,125, Sensor ID : 800
+WARNING, 2023-07-07 16:00:18,385, Preprocessing_OM.py - Error 발생
+WARNING, 2023-07-07 16:00:18,385, Error : could not convert string to float: '[results'
+WARNING, 2023-07-07 16:00:18,386, Asset/PartAsset.py - Error 발생
+WARNING, 2023-07-07 16:00:18,386, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 16:00:18,386, Usage.py - Error 발생
+WARNING, 2023-07-07 16:00:18,386, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 16:00:18,386, Statistics/PartAsset.py - Error 발생minutely_statistics_list
+WARNING, 2023-07-07 16:00:18,386, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 16:00:18,386, Compare.py - compare Error 발생
+WARNING, 2023-07-07 16:00:18,387, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 16:00:18,387, Statistics/PartAsset.py - Error 발생minutely_statistics_list
+WARNING, 2023-07-07 16:00:18,387, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 16:00:18,387, Normal.py - Error 발생
+WARNING, 2023-07-07 16:00:18,387, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 16:00:18,387, Statistics/PartAsset.py - Error 발생minutely_statistics_list
+WARNING, 2023-07-07 16:00:18,387, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 16:00:18,387, Count.py - Error 발생
+WARNING, 2023-07-07 16:00:18,387, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 16:00:18,388, Statistics/PartAsset.py - Error 발생minutely_statistics_list
+WARNING, 2023-07-07 16:00:18,388, Error : 'NoneType' object is not iterable
+WARNING, 2023-07-07 16:00:18,388, Merge.py - Error 발생
+WARNING, 2023-07-07 16:00:18,388, Error : Can only merge Series or DataFrame objects, a <class 'NoneType'> was passed
+WARNING, 2023-07-07 16:00:18,388, Merge.py - Error 발생
+WARNING, 2023-07-07 16:00:18,388, Error : Can only merge Series or DataFrame objects, a <class 'NoneType'> was passed
+WARNING, 2023-07-07 16:00:18,388, Merge.py - Error 발생
+WARNING, 2023-07-07 16:00:18,388, Error : Can only merge Series or DataFrame objects, a <class 'NoneType'> was passed
+WARNING, 2023-07-07 16:00:18,417, Minutely CMU module Fail'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-07-07 16:50:29,177, maincard1 Table INSERT connection 실패
+WARNING, 2023-07-07 16:50:29,177, Error : 'GB4'
+WARNING, 2023-07-07 16:51:55,686, maincard1 Table INSERT connection 실패
+WARNING, 2023-07-07 16:51:55,686, Error : 'disk_used_space3'

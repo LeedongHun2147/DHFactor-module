@@ -1,0 +1,25 @@
+WARNING, 2023-07-04 11:15:12,101, Tanium API Session Key 호출 Error 발생
+WARNING, 2023-07-04 11:15:14,143, Minutely CMU module FailHTTPSConnectionPool(host='192.168.5.100', port=443): Max retries exceeded with url: /plugin/products/gateway/graphql (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B83D60C490>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다'))
+WARNING, 2023-07-04 11:20:11,785, Minutely CMU module Fail'NoneType' object is not subscriptable
+WARNING, 2023-07-04 11:25:11,683, Minutely CMU module Fail'NoneType' object is not subscriptable
+WARNING, 2023-07-04 11:30:10,889, Minutely CMU module Fail'NoneType' object is not subscriptable
+WARNING, 2023-07-04 11:35:11,582, Minutely CMU module Fail'NoneType' object is not subscriptable
+WARNING, 2023-07-04 11:40:10,808, Minutely CMU module Fail'NoneType' object is not subscriptable
+WARNING, 2023-07-04 11:45:11,616, Minutely CMU module Fail'NoneType' object is not subscriptable
+WARNING, 2023-07-04 11:50:10,836, Minutely CMU module Fail'NoneType' object is not subscriptable
+WARNING, 2023-07-04 11:55:11,647, Minutely CMU module Fail'NoneType' object is not subscriptable
+WARNING, 2023-07-04 12:00:10,562, Minutely CMU module Fail'NoneType' object is not subscriptable
+WARNING, 2023-07-04 12:05:11,619, Minutely CMU module Fail'NoneType' object is not subscriptable
+WARNING, 2023-07-04 12:10:10,818, Minutely CMU module Fail'NoneType' object is not subscriptable
+WARNING, 2023-07-04 12:15:11,592, Minutely CMU module Fail'NoneType' object is not subscriptable
+WARNING, 2023-07-04 12:20:10,643, Minutely CMU module Fail'NoneType' object is not subscriptable
+WARNING, 2023-07-04 12:25:11,677, Minutely CMU module Fail'NoneType' object is not subscriptable
+WARNING, 2023-07-04 12:30:10,633, Minutely CMU module Fail'NoneType' object is not subscriptable
+WARNING, 2023-07-04 12:35:11,648, Minutely CMU module Fail'NoneType' object is not subscriptable
+WARNING, 2023-07-04 12:40:10,827, Minutely CMU module Fail'NoneType' object is not subscriptable
+WARNING, 2023-07-04 12:45:11,502, Minutely CMU module Fail'NoneType' object is not subscriptable
+WARNING, 2023-07-04 12:50:10,533, Minutely CMU module Fail'NoneType' object is not subscriptable
+WARNING, 2023-07-04 12:55:11,695, Minutely CMU module Fail'NoneType' object is not subscriptable
+WARNING, 2023-07-04 13:00:10,673, Minutely CMU module Fail'NoneType' object is not subscriptable
+WARNING, 2023-07-04 13:05:11,611, Minutely CMU module Fail'NoneType' object is not subscriptable
+WARNING, 2023-07-04 13:10:10,563, Minutely CMU module Fail'NoneType' object is not subscriptable

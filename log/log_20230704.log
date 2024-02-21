@@ -1,0 +1,820 @@
+INFO, 20230704091455, module Started
+DEBUG, 20230704091455, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091455, https://192.168.5.100:443 "POST /api/v2/session/login HTTP/1.1" 200 97
+INFO, 20230704091455, Tanium API Session Key 호출 성공
+INFO, 20230704091455, Session Key : 1-1001230-06ee283e95b1916b49a110882baef2b674d1f69c67bbc4a37da97f547d6b958c
+DEBUG, 20230704091455, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091455, https://192.168.5.100:443 "POST /plugin/products/gateway/graphql HTTP/1.1" 200 None
+DEBUG, 20230704091455, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091455, https://192.168.5.100:443 "POST /api/v2/session/login HTTP/1.1" 200 97
+INFO, 20230704091455, Tanium API Session Key 호출 성공
+INFO, 20230704091455, Session Key : 1-1001231-550b4204602f1a7af902d4c7d96c521e5606a91a25165d01a57b037dec397e6d
+DEBUG, 20230704091455, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091456, https://192.168.5.100:443 "POST /plugin/products/gateway/graphql HTTP/1.1" 200 None
+INFO, 20230704091456, Statistics Table INSERT connection - minutely성공
+DEBUG, 20230704091456, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091456, https://192.168.5.100:443 "POST /api/v2/session/login HTTP/1.1" 200 97
+INFO, 20230704091456, Tanium API Session Key 호출 성공
+INFO, 20230704091456, Session Key : 1-1001232-1fa4b0fa1bc71fd6b17984fe1992693ef62027cc53aa0f59c24ea906e057d7d0
+DEBUG, 20230704091456, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091456, https://192.168.5.100:443 "POST /plugin/products/gateway/graphql HTTP/1.1" 200 None
+DEBUG, 20230704091456, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091457, https://192.168.5.100:443 "POST /api/v2/session/login HTTP/1.1" 200 97
+INFO, 20230704091457, Tanium API Session Key 호출 성공
+INFO, 20230704091457, Session Key : 1-1001234-99dea81172a742513252f0cb3cb00361577a2abd8bbb2a1b709aac24003739e2
+DEBUG, 20230704091457, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091457, https://192.168.5.100:443 "POST /plugin/products/gateway/graphql HTTP/1.1" 200 None
+INFO, 20230704091457, Statistics Table INSERT connection - minutely성공
+DEBUG, 20230704091457, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091457, https://192.168.5.100:443 "POST /api/v2/session/login HTTP/1.1" 200 97
+INFO, 20230704091457, Tanium API Session Key 호출 성공
+INFO, 20230704091457, Session Key : 1-1001236-be6be0e2b8227ee655efb50711c7387123c7673f4c2539b18399a864850497bb
+DEBUG, 20230704091457, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091458, https://192.168.5.100:443 "POST /plugin/products/gateway/graphql HTTP/1.1" 200 None
+DEBUG, 20230704091458, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091458, https://192.168.5.100:443 "POST /api/v2/session/login HTTP/1.1" 200 97
+INFO, 20230704091458, Tanium API Session Key 호출 성공
+INFO, 20230704091458, Session Key : 1-1001238-0b42db709347870b39edfc180fcd3a1d5c0417c209d11f32b1e43bd4d1941f70
+DEBUG, 20230704091458, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091458, https://192.168.5.100:443 "POST /plugin/products/gateway/graphql HTTP/1.1" 200 None
+INFO, 20230704091458, Statistics Table INSERT connection - minutely성공
+DEBUG, 20230704091458, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091458, https://192.168.5.100:443 "POST /api/v2/session/login HTTP/1.1" 200 97
+INFO, 20230704091458, Tanium API Session Key 호출 성공
+INFO, 20230704091458, Session Key : 1-1001239-ae86d6f3c9a1e0573e0f66a0d1a0b636de1bd22e2df8c95b53cd24061eb3921e
+DEBUG, 20230704091458, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091459, https://192.168.5.100:443 "POST /plugin/products/gateway/graphql HTTP/1.1" 200 None
+INFO, 20230704091459, Statistics Table INSERT connection - minutely성공
+DEBUG, 20230704091459, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091459, https://192.168.5.100:443 "POST /api/v2/session/login HTTP/1.1" 200 97
+INFO, 20230704091459, Tanium API Session Key 호출 성공
+INFO, 20230704091459, Session Key : 1-1001240-bfd9c9b1bfee19080252e5dbf7bfab845f52ead4fc5d3dfec77261f24ad103a6
+DEBUG, 20230704091459, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091500, https://192.168.5.100:443 "POST /plugin/products/gateway/graphql HTTP/1.1" 200 None
+INFO, 20230704091500, Statistics Table INSERT connection - minutely성공
+DEBUG, 20230704091500, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091500, https://192.168.5.100:443 "POST /api/v2/session/login HTTP/1.1" 200 97
+INFO, 20230704091500, Tanium API Session Key 호출 성공
+INFO, 20230704091500, Session Key : 1-1001241-f8ec9d5e7f403dc967aa6305af17cb2f97dd981519864218221993dce2344e72
+DEBUG, 20230704091500, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091502, https://192.168.5.100:443 "POST /plugin/products/gateway/graphql HTTP/1.1" 200 None
+INFO, 20230704091502, Statistics Table INSERT connection - minutely성공
+DEBUG, 20230704091502, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091502, https://192.168.5.100:443 "POST /api/v2/session/login HTTP/1.1" 200 97
+INFO, 20230704091502, Tanium API Session Key 호출 성공
+INFO, 20230704091502, Session Key : 1-1001242-d75f785a2361dc493d342fa036526ae6a7d207b1cd55eb5baec5f224a0b80594
+DEBUG, 20230704091502, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091502, https://192.168.5.100:443 "POST /api/v2/result_data/saved_question/666 HTTP/1.1" 200 103457
+INFO, 20230704091502, Tanium API Sensor 호출 성공
+INFO, 20230704091502, Sensor ID : 666
+INFO, 20230704091502, sbom_list Table INSERT connection - 성공
+DEBUG, 20230704091502, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091502, https://192.168.5.100:443 "POST /api/v2/session/login HTTP/1.1" 200 97
+INFO, 20230704091502, Tanium API Session Key 호출 성공
+INFO, 20230704091502, Session Key : 1-1001243-a9f10e2a86ceb8ad3c62fa919dee9d0ca884ea5bcad60bec8ba52e6c8e20a64b
+DEBUG, 20230704091502, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091503, https://192.168.5.100:443 "POST /api/v2/result_data/saved_question/711 HTTP/1.1" 200 3059
+INFO, 20230704091503, Tanium API Sensor 호출 성공
+INFO, 20230704091503, Sensor ID : 711
+DEBUG, 20230704091503, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091503, https://192.168.5.100:443 "POST /api/v2/session/login HTTP/1.1" 200 97
+INFO, 20230704091503, Tanium API Session Key 호출 성공
+INFO, 20230704091503, Session Key : 1-1001245-67cb296252493026f755d83b86a4b66693d3d16d72fe2a9169b5fd50b2bdba57
+DEBUG, 20230704091503, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091504, https://192.168.5.100:443 "POST /api/v2/result_data/saved_question/596 HTTP/1.1" 200 386103
+INFO, 20230704091504, Tanium API Sensor 호출 성공
+INFO, 20230704091504, Sensor ID : 596
+INFO, 20230704091504, Asset/AllAsset.py -  API 성공
+INFO, 20230704091504, Asset Table INSERT connection - minutely 성공
+INFO, 20230704091504, Asset Table Select connection - minutely_daily_asset성공
+INFO, 20230704091504, Asset/PartAsset.py -  DB/minutely_daily_asset 성공
+INFO, 20230704091504, Preprocessing.py - minutely_daily_asset 성공
+INFO, 20230704091504, Asset/PartAsset.py -  DB/minutely_daily_asset 성공
+INFO, 20230704091504, Usage.py - 성공
+INFO, 20230704091504, Statistics/PartAsset.py -  minutely_statistics_list/usage 성공
+INFO, 20230704091504, Compare.py -compare 성공
+INFO, 20230704091504, Statistics/PartAsset.py -  minutely_statistics_list/compare 성공
+INFO, 20230704091504, Normal.py - 성공
+INFO, 20230704091504, Statistics/PartAsset.py -  minutely_statistics_list/normal 성공
+INFO, 20230704091504, Count.py - 성공
+INFO, 20230704091504, Statistics/PartAsset.py -  minutely_statistics_list/count 성공
+INFO, 20230704091504, Merge.py - 성공
+INFO, 20230704091504, Merge.py - 성공
+INFO, 20230704091504, Merge.py - 성공
+INFO, 20230704091504, Statistics List Table INSERT connection - minutely성공
+INFO, 20230704091504, Statistics List Table Select connection - minutely 성공
+INFO, 20230704091504, Statistics List Table Select connection - minutely_statistics_list_online 성공
+INFO, 20230704091504, Statistics/AllAsset.py -  DB/minutely_statistics_list 성공
+INFO, 20230704091504, Statistics/PartAsset.py -  minutely_statistics_list_online/normal 성공
+INFO, 20230704091504, GroupByCount.py -os 성공
+INFO, 20230704091504, GroupByCount.py -operating_system 성공
+INFO, 20230704091504, GroupByCount.py -virtual 성공
+INFO, 20230704091504, GroupByCount.py -asset 성공
+INFO, 20230704091504, GroupByCount.py -listen_port_count_change 성공
+INFO, 20230704091504, GroupByCount.py -established_port_count_change 성공
+INFO, 20230704091504, Compare.py -alarm 성공
+INFO, 20230704091504, Statistics/PartAsset.py -  minutely_statistics_list/alarm 성공
+INFO, 20230704091504, GroupByCount.py -drive_usage_size_exceeded 성공
+INFO, 20230704091504, GroupByCount.py -ram_usage_size_exceeded 성공
+INFO, 20230704091504, GroupByCount.py -cpu_usage_size_exceeded 성공
+INFO, 20230704091504, GroupByCount.py -last_reboot_exceeded 성공
+INFO, 20230704091504, GroupByCount.py -group_ram_usage_exceeded 성공
+INFO, 20230704091505, GroupByCount.py -group_cpu_usage_exceeded 성공
+INFO, 20230704091505, GroupByCount.py -group_listen_port_count_change 성공
+INFO, 20230704091505, GroupByCount.py -group_established_port_count_change 성공
+INFO, 20230704091505, GroupByCount.py -group_running_service_count_exceeded 성공
+INFO, 20230704091505, GroupByCount.py -group_last_reboot 성공
+INFO, 20230704091505, GroupByCount.py -group_drive_usage_size_exceeded 성공
+INFO, 20230704091505, GroupByCount.py -group_server_count 성공
+INFO, 20230704091505, GroupByCount.py -manufacturer 성공
+INFO, 20230704091505, GroupByCount.py -nvidia_smi 성공
+INFO, 20230704091505, Compare.py -online 성공
+INFO, 20230704091505, Statistics/PartAsset.py -  minutely_statistics_list_online/count 성공
+INFO, 20230704091505, GroupByCount.py -group_last_online_time_exceeded 성공
+INFO, 20230704091505, GroupByCount.py -last_online_time_exceeded 성공
+INFO, 20230704091505, Asset Table Select connection - minutely_asset_part성공
+INFO, 20230704091505, Asset/PartAsset.py -  DB/minutely_asset 성공
+INFO, 20230704091505, Preprocessing.py - minutely_asset 성공
+INFO, 20230704091505, Asset/PartAsset.py -  DB/minutely_asset 성공
+INFO, 20230704091505, GroupByCount.py -installed_applications 성공
+INFO, 20230704091505, GroupByCount.py -running_service 성공
+INFO, 20230704091505, GroupByCount.py -session_ip 성공
+INFO, 20230704091505, GroupByCount.py -online_asset 성공
+INFO, 20230704091505, GroupByCount.py -wire 성공
+INFO, 20230704091505, Statistics/AllAsset.py -  DB/minutely_statistics 성공
+INFO, 20230704091505, Statistics Table INSERT connection - minutely성공
+INFO, 20230704091506, Tanium Minutely module 성공
+DEBUG, 20230704091506, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091506, https://192.168.5.100:443 "POST /api/v2/session/login HTTP/1.1" 200 97
+INFO, 20230704091506, Tanium API Session Key 호출 성공
+INFO, 20230704091506, Session Key : 1-1001246-7ba57a21f535ee0784e717b45a6c10ae7e90988ffaf01eeb6e94d125f41b2942
+DEBUG, 20230704091506, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091506, https://192.168.5.100:443 "POST /api/v2/result_data/saved_question/598 HTTP/1.1" 200 5368
+INFO, 20230704091506, Tanium API Sensor 호출 성공
+INFO, 20230704091506, Sensor ID : 598
+INFO, 20230704091506, certificate_asset Table INSERT connection - 성공
+INFO, 20230704091506, certificate_asset Table INSERT connection - 성공
+INFO, 20230704091506, Asset Table Select connection - minutely_asset_all성공
+INFO, 20230704091506, Asset/AllAsset.py -  DB 성공
+INFO, 20230704091506, Asset Table INSERT connection - daily 성공
+INFO, 20230704091506, Statistics List Table Select connection - minutely 성공
+INFO, 20230704091506, Statistics/AllAsset.py -  DB/minutely_statistics_list 성공
+INFO, 20230704091506, Statistics List Table INSERT connection - daily성공
+INFO, 20230704091507, Statistics Table Select connection - minutely 성공
+INFO, 20230704091507, Statistics/PartAsset.py -  minutely_statistics/ 성공
+INFO, 20230704091507, Statistics Table INSERT connection - daily성공
+DEBUG, 20230704091507, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091507, https://192.168.5.100:443 "POST /api/v2/session/login HTTP/1.1" 200 97
+INFO, 20230704091507, Tanium API Session Key 호출 성공
+INFO, 20230704091507, Session Key : 1-1001247-6d4440911eef0ebf184c9e2aedaf2b10cb2c34f0c3093c24da9ba0b5948cf166
+DEBUG, 20230704091507, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091508, https://192.168.5.100:443 "POST /api/v2/result_data/saved_question/597 HTTP/1.1" 200 3513
+INFO, 20230704091508, Tanium API Sensor 호출 성공
+INFO, 20230704091508, Sensor ID : 597
+INFO, 20230704091508, Idleasset Table INSERT connection - 성공
+INFO, 20230704091508, Idleasset Table INSERT connection - 성공
+DEBUG, 20230704091508, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091508, https://192.168.5.100:443 "POST /api/v2/session/login HTTP/1.1" 200 97
+INFO, 20230704091508, Tanium API Session Key 호출 성공
+INFO, 20230704091508, Session Key : 1-1001248-3b13f4964d3f748e5a7216800eb1a99f61cb1fad44223a9f33af0e6d8c0e0cb8
+DEBUG, 20230704091508, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091509, https://192.168.5.100:443 "POST /plugin/products/connect/v1/connections/2/runs/ HTTP/1.1" 200 None
+DEBUG, 20230704091509, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091509, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091509, Tanium API Sensor 호출 성공
+INFO, 20230704091509, Sensor ID: 7739
+DEBUG, 20230704091509, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091509, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091509, Tanium API Sensor 호출 성공
+INFO, 20230704091509, Sensor ID: 7739
+DEBUG, 20230704091509, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091509, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091509, Tanium API Sensor 호출 성공
+INFO, 20230704091509, Sensor ID: 7739
+DEBUG, 20230704091509, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091510, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091510, Tanium API Sensor 호출 성공
+INFO, 20230704091510, Sensor ID: 7739
+DEBUG, 20230704091510, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091510, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091510, Tanium API Sensor 호출 성공
+INFO, 20230704091510, Sensor ID: 7739
+DEBUG, 20230704091510, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091510, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091510, Tanium API Sensor 호출 성공
+INFO, 20230704091510, Sensor ID: 7739
+DEBUG, 20230704091510, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091510, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091510, Tanium API Sensor 호출 성공
+INFO, 20230704091510, Sensor ID: 7739
+DEBUG, 20230704091510, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091510, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091510, Tanium API Sensor 호출 성공
+INFO, 20230704091510, Sensor ID: 7739
+DEBUG, 20230704091510, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091511, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091511, Tanium API Sensor 호출 성공
+INFO, 20230704091511, Sensor ID: 7739
+DEBUG, 20230704091511, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091511, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091511, Tanium API Sensor 호출 성공
+INFO, 20230704091511, Sensor ID: 7739
+DEBUG, 20230704091511, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091511, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091511, Tanium API Sensor 호출 성공
+INFO, 20230704091511, Sensor ID: 7739
+DEBUG, 20230704091511, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091511, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091511, Tanium API Sensor 호출 성공
+INFO, 20230704091511, Sensor ID: 7739
+DEBUG, 20230704091511, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091512, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091512, Tanium API Sensor 호출 성공
+INFO, 20230704091512, Sensor ID: 7739
+DEBUG, 20230704091512, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091512, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091512, Tanium API Sensor 호출 성공
+INFO, 20230704091512, Sensor ID: 7739
+DEBUG, 20230704091512, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091512, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091512, Tanium API Sensor 호출 성공
+INFO, 20230704091512, Sensor ID: 7739
+DEBUG, 20230704091512, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091512, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091512, Tanium API Sensor 호출 성공
+INFO, 20230704091512, Sensor ID: 7739
+DEBUG, 20230704091512, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091512, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091512, Tanium API Sensor 호출 성공
+INFO, 20230704091512, Sensor ID: 7739
+DEBUG, 20230704091512, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091513, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091513, Tanium API Sensor 호출 성공
+INFO, 20230704091513, Sensor ID: 7739
+DEBUG, 20230704091513, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091513, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091513, Tanium API Sensor 호출 성공
+INFO, 20230704091513, Sensor ID: 7739
+DEBUG, 20230704091513, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091513, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091513, Tanium API Sensor 호출 성공
+INFO, 20230704091513, Sensor ID: 7739
+DEBUG, 20230704091513, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091513, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091513, Tanium API Sensor 호출 성공
+INFO, 20230704091513, Sensor ID: 7739
+DEBUG, 20230704091513, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091513, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091513, Tanium API Sensor 호출 성공
+INFO, 20230704091513, Sensor ID: 7739
+DEBUG, 20230704091513, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091514, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091514, Tanium API Sensor 호출 성공
+INFO, 20230704091514, Sensor ID: 7739
+DEBUG, 20230704091514, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091514, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091514, Tanium API Sensor 호출 성공
+INFO, 20230704091514, Sensor ID: 7739
+DEBUG, 20230704091514, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091514, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091514, Tanium API Sensor 호출 성공
+INFO, 20230704091514, Sensor ID: 7739
+DEBUG, 20230704091514, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091514, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091514, Tanium API Sensor 호출 성공
+INFO, 20230704091514, Sensor ID: 7739
+DEBUG, 20230704091514, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091514, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091514, Tanium API Sensor 호출 성공
+INFO, 20230704091514, Sensor ID: 7739
+DEBUG, 20230704091514, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091515, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091515, Tanium API Sensor 호출 성공
+INFO, 20230704091515, Sensor ID: 7739
+DEBUG, 20230704091515, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091515, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091515, Tanium API Sensor 호출 성공
+INFO, 20230704091515, Sensor ID: 7739
+DEBUG, 20230704091515, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091515, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091515, Tanium API Sensor 호출 성공
+INFO, 20230704091515, Sensor ID: 7739
+DEBUG, 20230704091515, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091515, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091515, Tanium API Sensor 호출 성공
+INFO, 20230704091515, Sensor ID: 7739
+DEBUG, 20230704091515, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091515, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091515, Tanium API Sensor 호출 성공
+INFO, 20230704091515, Sensor ID: 7739
+DEBUG, 20230704091515, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091516, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091516, Tanium API Sensor 호출 성공
+INFO, 20230704091516, Sensor ID: 7739
+DEBUG, 20230704091516, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091516, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091516, Tanium API Sensor 호출 성공
+INFO, 20230704091516, Sensor ID: 7739
+DEBUG, 20230704091516, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091516, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091516, Tanium API Sensor 호출 성공
+INFO, 20230704091516, Sensor ID: 7739
+DEBUG, 20230704091516, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091516, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091516, Tanium API Sensor 호출 성공
+INFO, 20230704091516, Sensor ID: 7739
+DEBUG, 20230704091516, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091516, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091516, Tanium API Sensor 호출 성공
+INFO, 20230704091516, Sensor ID: 7739
+DEBUG, 20230704091516, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091517, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091517, Tanium API Sensor 호출 성공
+INFO, 20230704091517, Sensor ID: 7739
+DEBUG, 20230704091517, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091517, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091517, Tanium API Sensor 호출 성공
+INFO, 20230704091517, Sensor ID: 7739
+DEBUG, 20230704091517, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091517, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091517, Tanium API Sensor 호출 성공
+INFO, 20230704091517, Sensor ID: 7739
+DEBUG, 20230704091517, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091517, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091517, Tanium API Sensor 호출 성공
+INFO, 20230704091517, Sensor ID: 7739
+DEBUG, 20230704091517, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091518, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091518, Tanium API Sensor 호출 성공
+INFO, 20230704091518, Sensor ID: 7739
+DEBUG, 20230704091518, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091518, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091518, Tanium API Sensor 호출 성공
+INFO, 20230704091518, Sensor ID: 7739
+DEBUG, 20230704091518, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091518, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091518, Tanium API Sensor 호출 성공
+INFO, 20230704091518, Sensor ID: 7739
+DEBUG, 20230704091518, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091518, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091518, Tanium API Sensor 호출 성공
+INFO, 20230704091518, Sensor ID: 7739
+DEBUG, 20230704091518, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091518, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091518, Tanium API Sensor 호출 성공
+INFO, 20230704091518, Sensor ID: 7739
+DEBUG, 20230704091518, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091519, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091519, Tanium API Sensor 호출 성공
+INFO, 20230704091519, Sensor ID: 7739
+DEBUG, 20230704091519, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091519, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091519, Tanium API Sensor 호출 성공
+INFO, 20230704091519, Sensor ID: 7739
+DEBUG, 20230704091519, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091519, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091519, Tanium API Sensor 호출 성공
+INFO, 20230704091519, Sensor ID: 7739
+DEBUG, 20230704091519, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091519, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091519, Tanium API Sensor 호출 성공
+INFO, 20230704091519, Sensor ID: 7739
+DEBUG, 20230704091519, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091519, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091519, Tanium API Sensor 호출 성공
+INFO, 20230704091519, Sensor ID: 7739
+DEBUG, 20230704091519, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091519, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091519, Tanium API Sensor 호출 성공
+INFO, 20230704091519, Sensor ID: 7739
+DEBUG, 20230704091519, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091520, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091520, Tanium API Sensor 호출 성공
+INFO, 20230704091520, Sensor ID: 7739
+DEBUG, 20230704091520, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091520, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091520, Tanium API Sensor 호출 성공
+INFO, 20230704091520, Sensor ID: 7739
+DEBUG, 20230704091520, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091520, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091520, Tanium API Sensor 호출 성공
+INFO, 20230704091520, Sensor ID: 7739
+DEBUG, 20230704091520, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091520, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091520, Tanium API Sensor 호출 성공
+INFO, 20230704091520, Sensor ID: 7739
+DEBUG, 20230704091520, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091520, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091520, Tanium API Sensor 호출 성공
+INFO, 20230704091520, Sensor ID: 7739
+DEBUG, 20230704091520, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091520, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091520, Tanium API Sensor 호출 성공
+INFO, 20230704091520, Sensor ID: 7739
+DEBUG, 20230704091520, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091520, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091520, Tanium API Sensor 호출 성공
+INFO, 20230704091520, Sensor ID: 7739
+DEBUG, 20230704091520, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091521, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091521, Tanium API Sensor 호출 성공
+INFO, 20230704091521, Sensor ID: 7739
+DEBUG, 20230704091521, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091521, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091521, Tanium API Sensor 호출 성공
+INFO, 20230704091521, Sensor ID: 7739
+DEBUG, 20230704091521, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091521, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091521, Tanium API Sensor 호출 성공
+INFO, 20230704091521, Sensor ID: 7739
+DEBUG, 20230704091521, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091521, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091521, Tanium API Sensor 호출 성공
+INFO, 20230704091521, Sensor ID: 7739
+DEBUG, 20230704091521, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091522, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091522, Tanium API Sensor 호출 성공
+INFO, 20230704091522, Sensor ID: 7739
+DEBUG, 20230704091522, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091522, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091522, Tanium API Sensor 호출 성공
+INFO, 20230704091522, Sensor ID: 7739
+DEBUG, 20230704091522, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091522, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091522, Tanium API Sensor 호출 성공
+INFO, 20230704091522, Sensor ID: 7739
+DEBUG, 20230704091522, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091522, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091522, Tanium API Sensor 호출 성공
+INFO, 20230704091522, Sensor ID: 7739
+DEBUG, 20230704091522, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091522, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091522, Tanium API Sensor 호출 성공
+INFO, 20230704091522, Sensor ID: 7739
+DEBUG, 20230704091522, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091523, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091523, Tanium API Sensor 호출 성공
+INFO, 20230704091523, Sensor ID: 7739
+DEBUG, 20230704091523, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091523, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091523, Tanium API Sensor 호출 성공
+INFO, 20230704091523, Sensor ID: 7739
+DEBUG, 20230704091523, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091523, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091523, Tanium API Sensor 호출 성공
+INFO, 20230704091523, Sensor ID: 7739
+DEBUG, 20230704091523, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091523, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091523, Tanium API Sensor 호출 성공
+INFO, 20230704091523, Sensor ID: 7739
+DEBUG, 20230704091523, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091523, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091523, Tanium API Sensor 호출 성공
+INFO, 20230704091523, Sensor ID: 7739
+DEBUG, 20230704091523, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091524, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091524, Tanium API Sensor 호출 성공
+INFO, 20230704091524, Sensor ID: 7739
+DEBUG, 20230704091524, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091524, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091524, Tanium API Sensor 호출 성공
+INFO, 20230704091524, Sensor ID: 7739
+DEBUG, 20230704091524, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091524, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091524, Tanium API Sensor 호출 성공
+INFO, 20230704091524, Sensor ID: 7739
+DEBUG, 20230704091524, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091524, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091524, Tanium API Sensor 호출 성공
+INFO, 20230704091524, Sensor ID: 7739
+DEBUG, 20230704091524, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091524, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091524, Tanium API Sensor 호출 성공
+INFO, 20230704091524, Sensor ID: 7739
+DEBUG, 20230704091524, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091525, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091525, Tanium API Sensor 호출 성공
+INFO, 20230704091525, Sensor ID: 7739
+DEBUG, 20230704091525, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091525, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091525, Tanium API Sensor 호출 성공
+INFO, 20230704091525, Sensor ID: 7739
+DEBUG, 20230704091525, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091525, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091525, Tanium API Sensor 호출 성공
+INFO, 20230704091525, Sensor ID: 7739
+DEBUG, 20230704091525, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091525, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091525, Tanium API Sensor 호출 성공
+INFO, 20230704091525, Sensor ID: 7739
+DEBUG, 20230704091525, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091525, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091525, Tanium API Sensor 호출 성공
+INFO, 20230704091525, Sensor ID: 7739
+DEBUG, 20230704091525, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091526, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091526, Tanium API Sensor 호출 성공
+INFO, 20230704091526, Sensor ID: 7739
+DEBUG, 20230704091526, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091526, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091526, Tanium API Sensor 호출 성공
+INFO, 20230704091526, Sensor ID: 7739
+DEBUG, 20230704091526, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091526, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091526, Tanium API Sensor 호출 성공
+INFO, 20230704091526, Sensor ID: 7739
+DEBUG, 20230704091526, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091526, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091526, Tanium API Sensor 호출 성공
+INFO, 20230704091526, Sensor ID: 7739
+DEBUG, 20230704091526, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091526, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091526, Tanium API Sensor 호출 성공
+INFO, 20230704091526, Sensor ID: 7739
+DEBUG, 20230704091526, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091527, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091527, Tanium API Sensor 호출 성공
+INFO, 20230704091527, Sensor ID: 7739
+DEBUG, 20230704091527, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091527, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091527, Tanium API Sensor 호출 성공
+INFO, 20230704091527, Sensor ID: 7739
+DEBUG, 20230704091527, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091527, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091527, Tanium API Sensor 호출 성공
+INFO, 20230704091527, Sensor ID: 7739
+DEBUG, 20230704091527, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091527, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091527, Tanium API Sensor 호출 성공
+INFO, 20230704091527, Sensor ID: 7739
+DEBUG, 20230704091527, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091527, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091527, Tanium API Sensor 호출 성공
+INFO, 20230704091527, Sensor ID: 7739
+DEBUG, 20230704091527, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091527, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091527, Tanium API Sensor 호출 성공
+INFO, 20230704091527, Sensor ID: 7739
+DEBUG, 20230704091527, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091528, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091528, Tanium API Sensor 호출 성공
+INFO, 20230704091528, Sensor ID: 7739
+DEBUG, 20230704091528, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091528, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091528, Tanium API Sensor 호출 성공
+INFO, 20230704091528, Sensor ID: 7739
+DEBUG, 20230704091528, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091528, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091528, Tanium API Sensor 호출 성공
+INFO, 20230704091528, Sensor ID: 7739
+DEBUG, 20230704091528, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091528, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091528, Tanium API Sensor 호출 성공
+INFO, 20230704091528, Sensor ID: 7739
+DEBUG, 20230704091528, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091528, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091528, Tanium API Sensor 호출 성공
+INFO, 20230704091528, Sensor ID: 7739
+DEBUG, 20230704091528, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091529, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091529, Tanium API Sensor 호출 성공
+INFO, 20230704091529, Sensor ID: 7739
+DEBUG, 20230704091529, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091529, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091529, Tanium API Sensor 호출 성공
+INFO, 20230704091529, Sensor ID: 7739
+DEBUG, 20230704091529, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091529, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091529, Tanium API Sensor 호출 성공
+INFO, 20230704091529, Sensor ID: 7739
+DEBUG, 20230704091529, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091529, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091529, Tanium API Sensor 호출 성공
+INFO, 20230704091529, Sensor ID: 7739
+DEBUG, 20230704091529, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091529, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091529, Tanium API Sensor 호출 성공
+INFO, 20230704091529, Sensor ID: 7739
+DEBUG, 20230704091529, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091530, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091530, Tanium API Sensor 호출 성공
+INFO, 20230704091530, Sensor ID: 7739
+DEBUG, 20230704091530, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091530, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091530, Tanium API Sensor 호출 성공
+INFO, 20230704091530, Sensor ID: 7739
+DEBUG, 20230704091530, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091530, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091530, Tanium API Sensor 호출 성공
+INFO, 20230704091530, Sensor ID: 7739
+DEBUG, 20230704091530, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091530, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091530, Tanium API Sensor 호출 성공
+INFO, 20230704091530, Sensor ID: 7739
+DEBUG, 20230704091530, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091531, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091531, Tanium API Sensor 호출 성공
+INFO, 20230704091531, Sensor ID: 7739
+DEBUG, 20230704091531, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091531, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091531, Tanium API Sensor 호출 성공
+INFO, 20230704091531, Sensor ID: 7739
+DEBUG, 20230704091531, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091531, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091531, Tanium API Sensor 호출 성공
+INFO, 20230704091531, Sensor ID: 7739
+DEBUG, 20230704091531, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091531, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091531, Tanium API Sensor 호출 성공
+INFO, 20230704091531, Sensor ID: 7739
+DEBUG, 20230704091531, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091532, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091532, Tanium API Sensor 호출 성공
+INFO, 20230704091532, Sensor ID: 7739
+DEBUG, 20230704091532, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091532, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091532, Tanium API Sensor 호출 성공
+INFO, 20230704091532, Sensor ID: 7739
+DEBUG, 20230704091532, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091532, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091532, Tanium API Sensor 호출 성공
+INFO, 20230704091532, Sensor ID: 7739
+DEBUG, 20230704091532, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091532, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091532, Tanium API Sensor 호출 성공
+INFO, 20230704091532, Sensor ID: 7739
+DEBUG, 20230704091532, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091532, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091532, Tanium API Sensor 호출 성공
+INFO, 20230704091532, Sensor ID: 7739
+DEBUG, 20230704091532, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091533, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091533, Tanium API Sensor 호출 성공
+INFO, 20230704091533, Sensor ID: 7739
+DEBUG, 20230704091533, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091533, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091533, Tanium API Sensor 호출 성공
+INFO, 20230704091533, Sensor ID: 7739
+DEBUG, 20230704091533, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091533, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091533, Tanium API Sensor 호출 성공
+INFO, 20230704091533, Sensor ID: 7739
+DEBUG, 20230704091533, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091533, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091533, Tanium API Sensor 호출 성공
+INFO, 20230704091533, Sensor ID: 7739
+DEBUG, 20230704091533, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091533, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091533, Tanium API Sensor 호출 성공
+INFO, 20230704091533, Sensor ID: 7739
+DEBUG, 20230704091533, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091534, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091534, Tanium API Sensor 호출 성공
+INFO, 20230704091534, Sensor ID: 7739
+DEBUG, 20230704091534, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091534, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091534, Tanium API Sensor 호출 성공
+INFO, 20230704091534, Sensor ID: 7739
+DEBUG, 20230704091534, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091534, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091534, Tanium API Sensor 호출 성공
+INFO, 20230704091534, Sensor ID: 7739
+DEBUG, 20230704091534, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091534, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091534, Tanium API Sensor 호출 성공
+INFO, 20230704091534, Sensor ID: 7739
+DEBUG, 20230704091534, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091534, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091534, Tanium API Sensor 호출 성공
+INFO, 20230704091534, Sensor ID: 7739
+DEBUG, 20230704091534, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091535, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091535, Tanium API Sensor 호출 성공
+INFO, 20230704091535, Sensor ID: 7739
+DEBUG, 20230704091535, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091535, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091535, Tanium API Sensor 호출 성공
+INFO, 20230704091535, Sensor ID: 7739
+DEBUG, 20230704091535, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091535, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091535, Tanium API Sensor 호출 성공
+INFO, 20230704091535, Sensor ID: 7739
+DEBUG, 20230704091535, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091535, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091535, Tanium API Sensor 호출 성공
+INFO, 20230704091535, Sensor ID: 7739
+DEBUG, 20230704091535, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091535, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091535, Tanium API Sensor 호출 성공
+INFO, 20230704091535, Sensor ID: 7739
+DEBUG, 20230704091535, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091536, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091536, Tanium API Sensor 호출 성공
+INFO, 20230704091536, Sensor ID: 7739
+DEBUG, 20230704091536, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091536, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091536, Tanium API Sensor 호출 성공
+INFO, 20230704091536, Sensor ID: 7739
+DEBUG, 20230704091536, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091536, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091536, Tanium API Sensor 호출 성공
+INFO, 20230704091536, Sensor ID: 7739
+DEBUG, 20230704091536, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091536, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091536, Tanium API Sensor 호출 성공
+INFO, 20230704091536, Sensor ID: 7739
+DEBUG, 20230704091537, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091537, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091537, Tanium API Sensor 호출 성공
+INFO, 20230704091537, Sensor ID: 7739
+DEBUG, 20230704091537, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091537, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091537, Tanium API Sensor 호출 성공
+INFO, 20230704091537, Sensor ID: 7739
+DEBUG, 20230704091537, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091537, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091537, Tanium API Sensor 호출 성공
+INFO, 20230704091537, Sensor ID: 7739
+DEBUG, 20230704091537, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091538, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091538, Tanium API Sensor 호출 성공
+INFO, 20230704091538, Sensor ID: 7739
+DEBUG, 20230704091538, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091538, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091538, Tanium API Sensor 호출 성공
+INFO, 20230704091538, Sensor ID: 7739
+DEBUG, 20230704091538, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091538, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091538, Tanium API Sensor 호출 성공
+INFO, 20230704091538, Sensor ID: 7739
+DEBUG, 20230704091538, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091538, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091538, Tanium API Sensor 호출 성공
+INFO, 20230704091538, Sensor ID: 7739
+DEBUG, 20230704091538, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091538, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091538, Tanium API Sensor 호출 성공
+INFO, 20230704091538, Sensor ID: 7739
+DEBUG, 20230704091538, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091538, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091538, Tanium API Sensor 호출 성공
+INFO, 20230704091538, Sensor ID: 7739
+DEBUG, 20230704091538, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091539, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091539, Tanium API Sensor 호출 성공
+INFO, 20230704091539, Sensor ID: 7739
+DEBUG, 20230704091539, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091539, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091539, Tanium API Sensor 호출 성공
+INFO, 20230704091539, Sensor ID: 7739
+DEBUG, 20230704091539, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091539, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091539, Tanium API Sensor 호출 성공
+INFO, 20230704091539, Sensor ID: 7739
+DEBUG, 20230704091539, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091539, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091539, Tanium API Sensor 호출 성공
+INFO, 20230704091539, Sensor ID: 7739
+DEBUG, 20230704091539, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091540, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091540, Tanium API Sensor 호출 성공
+INFO, 20230704091540, Sensor ID: 7739
+DEBUG, 20230704091540, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091540, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091540, Tanium API Sensor 호출 성공
+INFO, 20230704091540, Sensor ID: 7739
+DEBUG, 20230704091540, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091540, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091540, Tanium API Sensor 호출 성공
+INFO, 20230704091540, Sensor ID: 7739
+DEBUG, 20230704091540, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091540, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091540, Tanium API Sensor 호출 성공
+INFO, 20230704091540, Sensor ID: 7739
+DEBUG, 20230704091540, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091541, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091541, Tanium API Sensor 호출 성공
+INFO, 20230704091541, Sensor ID: 7739
+DEBUG, 20230704091541, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091541, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091541, Tanium API Sensor 호출 성공
+INFO, 20230704091541, Sensor ID: 7739
+DEBUG, 20230704091541, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091541, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091541, Tanium API Sensor 호출 성공
+INFO, 20230704091541, Sensor ID: 7739
+DEBUG, 20230704091541, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091541, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091541, Tanium API Sensor 호출 성공
+INFO, 20230704091541, Sensor ID: 7739
+DEBUG, 20230704091541, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091541, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091541, Tanium API Sensor 호출 성공
+INFO, 20230704091541, Sensor ID: 7739
+DEBUG, 20230704091541, Starting new HTTPS connection (1): 192.168.5.100:443
+DEBUG, 20230704091542, https://192.168.5.100:443 "GET /plugin/products/connect/v1/connections/2/runs/7739 HTTP/1.1" 200 None
+INFO, 20230704091542, Tanium API Sensor 호출 성공
+INFO, 20230704091542, Sensor ID: 7739
+INFO, 20230704091542, Statistics Table INSERT connection - 성공
+INFO, 20230704091542, Tanium Daily module 성공
+INFO, 20230704091542, module Finished

@@ -1,0 +1,44 @@
+WARNING, 2023-06-12 13:35:16,824, Compare.py - alarm Error 발생
+WARNING, 2023-06-12 13:35:16,826, Error : local variable 'RAM' referenced before assignment
+WARNING, 2023-06-12 13:35:16,826, Statistics/PartAsset.py - Error 발생minutely_statistics_list
+WARNING, 2023-06-12 13:35:16,826, Error : 'NoneType' object is not iterable
+WARNING, 2023-06-12 13:35:16,826, GroupByCount.py - drive_usage_size_exceeded Error 발생
+WARNING, 2023-06-12 13:35:16,826, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-06-12 13:35:16,827, GroupByCount.py - ram_usage_size_exceeded Error 발생
+WARNING, 2023-06-12 13:35:16,827, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-06-12 13:35:16,827, GroupByCount.py - cpu_usage_size_exceeded Error 발생
+WARNING, 2023-06-12 13:35:16,827, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-06-12 13:35:16,828, GroupByCount.py - last_reboot_exceeded Error 발생
+WARNING, 2023-06-12 13:35:16,828, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-06-12 13:35:16,828, GroupByCount.py - group_ram_usage_exceeded Error 발생
+WARNING, 2023-06-12 13:35:16,828, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-06-12 13:35:16,828, GroupByCount.py - group_cpu_usage_exceeded Error 발생
+WARNING, 2023-06-12 13:35:16,828, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-06-12 13:35:16,828, GroupByCount.py - group_listen_port_count_change Error 발생
+WARNING, 2023-06-12 13:35:16,828, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-06-12 13:35:16,829, GroupByCount.py - group_established_port_count_change Error 발생
+WARNING, 2023-06-12 13:35:16,829, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-06-12 13:35:16,829, GroupByCount.py - group_running_service_count_exceeded Error 발생
+WARNING, 2023-06-12 13:35:16,829, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-06-12 13:35:16,829, GroupByCount.py - group_last_reboot Error 발생
+WARNING, 2023-06-12 13:35:16,829, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-06-12 13:35:16,829, GroupByCount.py - group_drive_usage_size_exceeded Error 발생
+WARNING, 2023-06-12 13:35:16,829, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-06-12 13:35:16,829, GroupByCount.py - group_server_count Error 발생
+WARNING, 2023-06-12 13:35:16,829, Error : 'NoneType' object has no attribute 'computer_id'
+WARNING, 2023-06-12 13:35:17,003, Minutely CMU module Failcan only concatenate list (not "NoneType") to list
+WARNING, 2023-06-12 16:07:06,487, Tanium API Sensor 호출 Error 발생
+WARNING, 2023-06-12 16:07:06,487, Sensor ID : 455
+WARNING, 2023-06-12 16:20:48,822, Tanium API Sensor 호출 Error 발생
+WARNING, 2023-06-12 16:20:48,822, Sensor ID : 455
+WARNING, 2023-06-12 16:25:05,373, Tanium API Session Key 호출 Error 발생
+WARNING, 2023-06-12 16:44:49,775, Tanium API Sensor 호출 Error 발생
+WARNING, 2023-06-12 16:44:49,776, Sensor ID : 455
+WARNING, 2023-06-12 17:25:29,026, Tanium API Sensor 호출 Error 발생
+WARNING, 2023-06-12 17:25:29,028, Sensor ID : 455
+WARNING, 2023-06-12 17:41:41,669, Tanium API Sensor 호출 Error 발생
+WARNING, 2023-06-12 17:41:41,670, Sensor ID : 455
+WARNING, 2023-06-12 18:03:47,073, Tanium API Sensor 호출 Error 발생
+WARNING, 2023-06-12 18:03:47,074, Sensor ID : 547
+WARNING, 2023-06-12 18:04:26,696, Tanium API Sensor 호출 Error 발생
+WARNING, 2023-06-12 18:04:26,696, Sensor ID : 547

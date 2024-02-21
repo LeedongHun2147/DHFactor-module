@@ -1,0 +1,25 @@
+WARNING, 2023-06-14 11:30:16,062, Minutely CMU module Fail'Lase Lodde In User Date'
+WARNING, 2023-06-14 11:35:15,819, Minutely CMU module Fail'Lase Lodde In User Date'
+WARNING, 2023-06-14 11:40:16,062, Minutely CMU module Fail'Lase Lodde In User Date'
+WARNING, 2023-06-14 11:45:16,155, Minutely CMU module Fail'Lase Lodde In User Date'
+WARNING, 2023-06-14 11:50:16,243, Minutely CMU module Fail'Lase Lodde In User Date'
+WARNING, 2023-06-14 11:55:16,109, Minutely CMU module Fail'Lase Lodde In User Date'
+WARNING, 2023-06-14 12:00:15,761, Minutely CMU module Fail'Lase Lodde In User Date'
+WARNING, 2023-06-14 12:05:16,411, Minutely CMU module Fail'Lase Lodde In User Date'
+WARNING, 2023-06-14 12:10:15,976, Minutely CMU module Fail'Lase Lodde In User Date'
+WARNING, 2023-06-14 12:15:16,455, Minutely CMU module Fail'Lase Lodde In User Date'
+WARNING, 2023-06-14 12:20:16,368, Minutely CMU module Fail'Lase Lodde In User Date'
+WARNING, 2023-06-14 12:25:16,298, Minutely CMU module Fail'Lase Lodde In User Date'
+WARNING, 2023-06-14 12:30:16,376, Minutely CMU module Fail'Lase Lodde In User Date'
+WARNING, 2023-06-14 13:55:16,032, Minutely CMU module Fail'Last Logged In User Date'
+WARNING, 2023-06-14 14:00:16,092, Minutely CMU module Fail'Last Logged In User Date'
+WARNING, 2023-06-14 14:50:42,230, Idleasset Table INSERT connection 실패
+WARNING, 2023-06-14 14:50:42,230, Error : 오류:  timestamp 자료형 대한 잘못된 입력: "Error: No results were returned from the Event Log query"
+LINE 5: ...otebook', '192.168.0.127', 'C: 172 GB', '176658', 'Error: No...
+                                                             ^
+
+WARNING, 2023-06-14 14:57:21,422, Idleasset Table INSERT connection 실패
+WARNING, 2023-06-14 14:57:21,422, Error : 오류:  integer 자료형 대한 잘못된 입력: "[current result unavailable]"
+LINE 5: ...lt unavailable]', '[current result unavailable]', '[current ...
+                                                             ^
+

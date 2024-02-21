@@ -1,0 +1,5 @@
+WARNING, 2023-07-13 09:36:48,486, sbom_detail Table INSERT connection 실패
+WARNING, 2023-07-13 09:36:48,487, Error : 오류:  "ipv4_address" 칼럼은 "sbom_detail" 릴레이션(relation)에 없음
+LINE 4:                     ipv4_address,
+                            ^
+

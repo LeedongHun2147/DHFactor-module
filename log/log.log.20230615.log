@@ -1,0 +1,31 @@
+WARNING, 2023-06-15 10:02:26,714, Idleasset Table INSERT connection 실패
+WARNING, 2023-06-15 10:02:26,715, Error : 오류:  중복된 키 값이 "computer_pk" 고유 제약 조건을 위반함
+DETAIL:  (computer_id)=(1277844599) 키가 이미 있습니다.
+
+WARNING, 2023-06-15 10:03:15,888, Idleasset Table INSERT connection 실패
+WARNING, 2023-06-15 10:03:15,889, Error : 오류:  중복된 키 값이 "computer_pk" 고유 제약 조건을 위반함
+DETAIL:  (computer_id)=(1277844599) 키가 이미 있습니다.
+
+WARNING, 2023-06-15 10:05:15,982, Idleasset Table INSERT connection 실패
+WARNING, 2023-06-15 10:05:15,982, Error : 오류:  중복된 키 값이 "computer_pk" 고유 제약 조건을 위반함
+DETAIL:  (computer_id)=(1277844599) 키가 이미 있습니다.
+
+WARNING, 2023-06-15 10:06:15,079, Idleasset Table INSERT connection 실패
+WARNING, 2023-06-15 10:06:15,079, Error : 오류:  중복된 키 값이 "computer_pk" 고유 제약 조건을 위반함
+DETAIL:  (computer_id)=(1277844599) 키가 이미 있습니다.
+
+WARNING, 2023-06-15 10:08:40,523, Idleasset Table INSERT connection 실패
+WARNING, 2023-06-15 10:08:40,524, Error : 오류:  중복된 키 값이 "computer_pk" 고유 제약 조건을 위반함
+DETAIL:  (computer_id)=(1277844599) 키가 이미 있습니다.
+
+WARNING, 2023-06-15 10:09:14,278, Idleasset Table INSERT connection 실패
+WARNING, 2023-06-15 10:09:14,279, Error : 오류:  중복된 키 값이 "computer_pk" 고유 제약 조건을 위반함
+DETAIL:  (computer_id)=(1277844599) 키가 이미 있습니다.
+
+WARNING, 2023-06-15 10:10:15,991, Idleasset Table INSERT connection 실패
+WARNING, 2023-06-15 10:10:15,991, Error : 오류:  중복된 키 값이 "computer_pk" 고유 제약 조건을 위반함
+DETAIL:  (computer_id)=(1277844599) 키가 이미 있습니다.
+
+WARNING, 2023-06-15 15:52:01,040, Idleasset Table INSERT connection 실패
+WARNING, 2023-06-15 15:52:01,041, Error : 오류:  ON CONFLICT 절을 사용하는 경우, unique 나 exclude 제약 조건이 있어야 함
+
